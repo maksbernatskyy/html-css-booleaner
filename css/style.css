@@ -48,3 +48,18 @@ p{
 ul{
     list-style-position: inside;
 }
+
+table{
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th{
+    background-color: #1fa9e5;
+    color: #fff;
+    text-align: left;
+}
+
+.bg-blue{
+    background-color: #b1e4f2;
+}
