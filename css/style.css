@@ -40,3 +40,11 @@ a{
     text-decoration: none;
     color: #21aae5;
 }
+
+p{
+    margin: 20px 0px 20px 0px;
+}
+
+ul{
+    list-style-position: inside;
+}
