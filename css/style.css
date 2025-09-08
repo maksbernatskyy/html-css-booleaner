@@ -9,7 +9,7 @@
 /*Utils*/
 
 main{
-    max-width: 1080px;
+    max-width: 890px;
     margin: 0 auto;
 }
 
@@ -23,4 +23,9 @@ header{
 .logo{
     height: 50px;
     padding-top: 30px;
+    margin-left: 318px;
+}
+
+h1{
+    margin-top: 20px;
 }
